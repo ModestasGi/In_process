@@ -1,2 +1,2 @@
 # In_process
-Project are in developing stage
+Projects are in developing stage
